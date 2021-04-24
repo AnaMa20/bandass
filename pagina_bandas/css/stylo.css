@@ -1,0 +1,244 @@
+body{
+	background-image: url(../images/fondos/fondo2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-size: 1em;
+}
+
+.navegacion{
+	background: rgba(183, 168, 147, 0.2);
+	width: 1600px;
+	height: 150px;
+	padding: 50px;
+	margin: auto;
+}
+
+
+.navegacion a{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+.navegacion a img{
+	height: 130px;
+	width: 310px;
+}
+
+
+div{
+	text-align: center;
+	margin-bottom: 55px;
+}
+
+
+h1{
+	font-family: Poor Richard;
+	font-size: 7em;
+	font-style: oblique;
+	text-align: center;
+	background: rgb(140, 92, 92);
+	color: #fff;
+	border: #fff 10px groove;
+	border-radius: 10em;
+	padding: 10px;
+	margin: 0px 20px 60px 20px;
+}
+
+
+h2{
+	font-family: Poor Richard;
+	font-style: italic;
+	font-size: 4.5em;
+	text-align: center;
+	background: #9a6a6a;
+	color: #fff;
+	border: #fff 50% ridge;
+	border-radius: 25em;
+	padding: 15px;
+	margin: 40px 30px 40px 30px;
+}
+
+
+#sub1{
+	font-family: High Tower Text;
+	color: rgb(231, 187, 185);
+	font-size: 5.5em;
+}
+
+
+#sub2{
+	font-family: Maiandra GD;
+	color: #dabbba;
+	font-size: 5em;
+}
+
+
+h3{
+	font-family: Palatino Linotype;
+	font-size: 2em;
+	color: #507b84;
+	border-color: rgba(183, 168, 147, 0.8);
+	border-style: dotted;
+	border-width: 10px;
+}
+
+
+.ana{
+	font-size: 3em;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.maria{
+	font-size: 3em;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.cota{
+	font-size: 3em;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.noguera{
+	font-size: 3em;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#ita{
+	font-style: italic;
+	background-color: rgba(134, 197, 206, 0.3);
+	font-family: NSimSun;
+
+}
+
+#bol{
+	font-style: bold;
+	background-color: rgba(170, 129, 127, 0.3);
+	font-family: Rockwell Condensed;
+}
+
+
+
+p{
+	font-family: Goudy Old Style;
+	font-size: 3em;
+	background: rgba(183, 168, 147, 0.4);
+	color: #1b282b;
+	border-color: rgb(183, 168, 147);
+	border-width: 0.2em;
+	border-style: dashed;
+}
+
+.intro{
+	text-align: center;
+	font-weight: bold;
+	border-color: rgba(235, 199, 141, 0.9);
+	border-style: dotted;
+	border-width: 0.4em;
+	background-color: rgba(134, 197, 206, 0.2);
+	color: rgb(79, 118, 124);
+	border-radius: 20em, 20em, 20em, 20em;
+	padding: 50px;
+	margin: 30px;
+}
+
+.disco_uno{
+	color: #614a45;
+	margin-left: 70px;
+	margin-right: 40px;
+}
+
+.disco_dos{
+	color: rgb(111, 78, 68);
+	margin-left: 70px;
+	margin-right: 40px;
+}
+
+.disco_tres{
+	color: rgb(89, 67, 52);
+	margin-left: 70px;
+	margin-right: 40px;
+}
+
+.disco_cuatro{
+	color: #462d23;
+	margin-left: 70px;
+	margin-right: 40px;
+}
+
+
+ul li {
+	font-size: 1em;
+	font-family: Consantia;
+	background: rgba(134, 197, 206, 0.3);
+	border: rgba(235, 199, 141, 0.9) 1em solid;
+	margin-right: 40px;
+}
+
+
+ul li img{
+	padding-left: 60px;
+	padding-top: 60px;
+	padding-right: 60px;
+}
+
+
+.album_uno{
+	background-color: rgba(170, 129, 127, 0.3);
+	margin-left: 20px;
+}
+
+.album_dos{
+	background-color: rgba(134, 197, 206, 0.3);
+	margin-left: 20px;
+}
+
+
+
+ol li{
+	font-family: Calisto MT;
+	font-size: 2.3em;
+	background: rgba(235, 199, 141, 0.3);
+	color: #1b282b;
+	border: rgba(235, 199, 141, 0.9) 0.1em solid;
+	border-left: rgba(235, 199, 141, 0.9) 0.1em inset;
+	border-top: rgba(235, 199, 141, 0.9) 0.1em outset;
+	border-bottom: rgba(235, 199, 141, 0.9) 0.1em outset;
+}
+
+#canciones{
+	text-align: center;
+}
+
+.primera{
+	color: #348a98;
+	padding: 10px;
+	margin: 10px 50px;
+}
+
+.segunda{
+	color: rgb(49, 128, 141);
+	padding: 10px;
+	margin: 10px 50px;
+}
+
+.tercera{
+	color: #2c7580;
+	padding: 10px;
+	margin: 10px 50px;
+}
+
+.cuarta{
+	color: rgb(42, 108, 119);
+	padding: 10px;
+	margin: 10px 50px;
+}
+.quinta{
+	color: #25616b;
+	padding: 10px;
+	margin: 10px 50px;
+}
